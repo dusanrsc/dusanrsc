@@ -6,7 +6,7 @@
 - 😄 Pronouns: Pythonist.
 - ⚡ Fun fact: None, just keep learning.
 
-I AM PRIMARLY PYTHON DEVELOPER!
+I am primarly Python3 developer!
 Coding in python version 3, since june 2019.
 
 
