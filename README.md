@@ -5,8 +5,7 @@
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
 - 😄 Pronouns: Pythonist.
 - ⚡ Fun fact: None, just keep learning.
-
-- Python version 3 developer since june 2019.
+- Python 3, developer since june 2019.
 - Do not forget to check my: https://gist.github.com/dusanrsc.
 
 <!---
