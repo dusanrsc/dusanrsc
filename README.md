@@ -6,6 +6,10 @@
 - 😄 Pronouns: Pythonist.
 - ⚡ Fun fact: None, just keep learning.
 
+I AM PRIMARLY PYTHON DEVELOPER!
+Coding in python version 3, since june 2019.
+
+
 <!---
 dusanrsc/dusanrsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
