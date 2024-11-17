@@ -6,9 +6,8 @@
 - 😄 Pronouns: Pythonist.
 - ⚡ Fun fact: None, just keep learning.
 
-I am primarly Python3 developer!
-Coding in python version 3, since june 2019.
-
+- Python version 3 developer since june 2019.
+- Do not forget to check my: https://gist.github.com/dusanrsc.
 
 <!---
 dusanrsc/dusanrsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
