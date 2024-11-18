@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on: Full Stack Applications...
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
 - 😄 Pronouns: Pythonist.
-- ⚡ Python 3, developer since june 2019.
-
+- ⚡ Python developer since june 2019.
+-
 - Do not forget to check out my: https://gist.github.com/dusanrsc.
 
 <!---
