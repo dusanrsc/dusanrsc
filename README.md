@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dusanrsc!
-- 👀 I’m interested in: AI, Cloud, Backend and et cetera...
+- 👀 I’m interested in: AI.
 - 🌱 I’m currently learning: AWS(CLF-C02)
 - 💞️ I’m looking to collaborate on: Full Stack Applications...
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
