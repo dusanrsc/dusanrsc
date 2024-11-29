@@ -5,8 +5,7 @@
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
 - 😄 Pronouns: Pythonist.
 - ⚡ Python developer since june 2019.
-
-- Do not forget to check out my: https://gist.github.com/dusanrsc.
+- ✨ Do not forget to check out my: https://gist.github.com/dusanrsc.
 
 <!---
 dusanrsc/dusanrsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
