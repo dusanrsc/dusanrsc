@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dusanrsc!
-- 🌱 I’m currently learning: AWS.
+- 🌱 I’m currently learning: AWS, Docker.
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
 - ⚡ Python developer since june 2019.
 - ✨ Do not forget to check out my: https://gist.github.com/dusanrsc.
