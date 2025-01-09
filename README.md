@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @dusanrsc!
-- 👀 I’m interested in: Full Stack Applications.
 - 🌱 I’m currently learning: AWS.
-- 💞️ I’m looking to collaborate on: Full Stack Applications...
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
-- 😄 Pronouns: Pythonist.
 - ⚡ Python developer since june 2019.
 - ✨ Do not forget to check out my: https://gist.github.com/dusanrsc.
 
