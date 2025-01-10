@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dusanrsc!
 - 🌱 I’m currently learning: AWS, Docker.
-- ⚡ Interested in: DjangoREST, TensorFlow...
+- ⚡ Interested in: Backend, AI...
 - 📫 How to reach me: dusanrosic25.06.1997@gmail.com
 - ✨ Do not forget to check out my: https://gist.github.com/dusanrsc.
 
