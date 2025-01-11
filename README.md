@@ -5,4 +5,4 @@
 - ***✨ Check out my gists: https://gist.github.com/dusanrsc***
 - ***Comming soon: https://dusanrsc.pythonanywhere.com***
 
-Future Learnings: AWS/Docker/DjangoREST/Godot/TensorFlow/Kotlin/C/C++
+Future Learnings: AWS/Docker/DjangoREST/TensorFlow/Godot/Kotlin/C/C++
