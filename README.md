@@ -1,5 +1,5 @@
 - ***📫 How to reach me: dusanrosic25.06.1997@gmail.com***
-- ***✨ Check out my gists: https://gist.github.com/dusanrsc***<br><br>
+- ***✨ Check out my gists: https://gist.github.com/dusanrsc***<br>
 
 - ** Currentness: **
 - **🚀 Learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) and [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) Since: January 2025 🚀**
