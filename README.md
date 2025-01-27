@@ -1,4 +1,4 @@
 - ***📫 How to reach me: dusanrosic25.06.1997@gmail.com***
 - ***✨ Check out my gists: https://gist.github.com/dusanrsc***
 - **🚀 Learning Kotlin Since "January 2025" 🚀**
-- **🌊 Diving Deep Into [Android Operating System](https://en.wikipedia.org/wiki/Android_(operating_system)) 🌊**
+- **🌊 Diving Deep Into: <i class="fa-brands fa-android"></i> [Android Operating System](https://en.wikipedia.org/wiki/Android_(operating_system)) 🌊**
