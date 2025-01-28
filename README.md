@@ -4,3 +4,7 @@
 - **🌊 Diving Deep Into:**
 <br><br>
 [![Android Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png)](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+<a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" width="200"/>
+</a>
