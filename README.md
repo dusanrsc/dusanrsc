@@ -4,5 +4,5 @@
 - **🌊 Diving Deep Into:**
 <br><br>
 <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" style="background-color: #FFFFFF">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" style="color: #FFFFFF">
 </a>
