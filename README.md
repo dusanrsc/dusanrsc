@@ -3,4 +3,4 @@
 - **🚀 Learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) since: January 2025 🚀**
 - **🌊 Diving Deep Into:**
 <br><br>
-[![Android Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/797px-Android_2023_3D_logo_and_wordmark.svg.png)](https://en.wikipedia.org/wiki/Android_(operating_system))
+[![Android Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0DxMCb1XU10ZsJUI0UqW9f0aNkThzzjXUQ&s)](https://en.wikipedia.org/wiki/Android_(operating_system))
