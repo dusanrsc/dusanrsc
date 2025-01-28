@@ -6,5 +6,6 @@
 
 <div style="container" align="center">
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" width="200" style="margin-right: 10px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" width="200" />
   </a>
+</div>
