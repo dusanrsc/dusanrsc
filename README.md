@@ -7,5 +7,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" width="200" style="margin-right: 10px;"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="200"/>
 </a>
