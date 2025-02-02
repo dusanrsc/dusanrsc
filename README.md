@@ -11,8 +11,8 @@
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="100%" />
   </a>
-  <br><br>
+  <!--<br><br>
   <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/799px-Godot_logo.svg.png" width="100%" height="80%" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/799px-Godot_logo.svg.png" width="100%" />
+  </a>-->
 </div>
