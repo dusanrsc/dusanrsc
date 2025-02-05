@@ -14,8 +14,4 @@
   <a href="https://en.wikipedia.org/wiki/React_Native">
     <img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="10%" />
   </a>
-  <!--<br><br>
-  <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/799px-Godot_logo.svg.png" width="100%" />
-  </a>-->
 </div>
