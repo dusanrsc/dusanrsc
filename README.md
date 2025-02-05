@@ -9,9 +9,8 @@
   </a>
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="100%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="50%" />
   </a>
-  <br><br>
   <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)">
     <img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="20%" />
   </a>
