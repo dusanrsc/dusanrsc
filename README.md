@@ -13,7 +13,7 @@
   </a>
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)">
-    <img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="100%" />
+    <img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30%" />
   </a>
   <!--<br><br>
   <a href="https://en.wikipedia.org/wiki/Godot_(game_engine)">
