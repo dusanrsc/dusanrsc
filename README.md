@@ -1,6 +1,6 @@
 - ***📫 How to reach me: dusanrosic25.06.1997@gmail.com***
 - ***✨ Check out my gists: https://gist.github.com/dusanrsc***
-- **🌊 Diving Deep Into:**
+<!--- **🌊 Diving Deep Into:**
 <br><br>
 
 <div style="container" align="center">
@@ -12,3 +12,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="80%" />
   </a>
 </div>
+-->
