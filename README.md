@@ -9,7 +9,7 @@
 
 <div style="container" align="center">
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="50%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="75%" />
   </a>
   <br><br>
 </div>
