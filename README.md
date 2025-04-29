@@ -12,3 +12,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="80%" />
   </a>
 </div>
+
+![Infinity Software Logo](https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74)
