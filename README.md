@@ -9,7 +9,7 @@
 
 <div style="container" align="center">
 
-  <a href="[https://en.wikipedia.org/wiki/Android_(operating_system)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))">
+  <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" width="75%" />
   </a>
 
