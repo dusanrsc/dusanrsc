@@ -10,7 +10,7 @@
 <div style="container" align="center">
 
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" width="75%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="75%" />
   </a>
 
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
