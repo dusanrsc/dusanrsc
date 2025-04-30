@@ -8,13 +8,14 @@
 <br><br>
 
 <div style="container" align="center">
+
+  <a href="[https://en.wikipedia.org/wiki/Android_(operating_system)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" width="75%" />
+  </a>
+
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="75%" />
   </a>
-
-<a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" width="75%" />
-</a>
   
   <br><br>
 </div>
