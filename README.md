@@ -23,7 +23,7 @@
   
 </div>
 
-- **💻 My Equipement: **
+- **💻 My Equipement:**
 <div style="container" align="center">
 
   <a href="https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2023/helpdesk_service?model2Name=FA707NVR">
