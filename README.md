@@ -27,9 +27,9 @@
 <div style="container" align="center">
 
   <a href="https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2023/helpdesk_service?model2Name=FA707NVR">
-    <img src="https://github.com/user-attachments/assets/3e2327a5-b5bf-4838-bf5a-216a07e13dba" width="75%" />
+    <img src="https://github.com/user-attachments/assets/3199a418-aee4-4e93-a79d-72f66c4041ea" width="75%" />
   </a>
-  
+
   <br><br>
 
 </div>
