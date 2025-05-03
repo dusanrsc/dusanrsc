@@ -1,5 +1,5 @@
 - ***📫 How to reach me: dusanrosic25.06.1997@gmail.com***
-- ***✨ CEO of:***
+- ***✨ CEO & Co-Founder of:***
 <div style="container" align="center">
   <img src="https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74" alt="Infinity Software Logo" width="75%">
 </div><br><br>
