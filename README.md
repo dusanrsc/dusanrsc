@@ -1,6 +1,6 @@
 - ***📫 How to reach me: dusanrosic25.06.1997@gmail.com***
 
-- ***Do not forget to check out my: gists.github.com/dusanrsc***
+- ***Do not forget to check out my: https://gist.github.com/dusanrsc***
 
 - ***✨ CEO & Co-Founder of:***
 <div style="container" align="center">
