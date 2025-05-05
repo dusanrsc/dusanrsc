@@ -92,4 +92,6 @@
 
   <br><br>
 
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=korisnickoime.ime-repozitorijuma)
+
 </div>
