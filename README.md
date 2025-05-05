@@ -60,10 +60,10 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo-512x512.png" width="15%" height="15%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="15%" height="15%">
   <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" width="15%" height="15%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="15%" height="15%">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="15%" height="15%">
   <img src="https://img.icons8.com/color/512/git.png" width="15%" height="15%">
   <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?resize=150%2C150&ssl=1" width="15%" height="15%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="15%" height="15%">
 
   <!--
     <img src="" width="150" height="150">
