@@ -93,7 +93,7 @@
 
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="100" height="100">
   <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter-326x326.png" width="100" height="100">
-  <img src="https://images.seeklogo.com/logo-png/50/1/react-logo-png_seeklogo-507247.png" width="100" height="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="100" height="100">
  </div>
 
 <br><br>
