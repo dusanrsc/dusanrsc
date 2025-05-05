@@ -5,7 +5,7 @@
 - ***✨ CEO & Co-Founder of:***
 <div style="container" align="center">
   <img src="https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74" alt="Infinity Software Logo" width="75%">
-  <h1 style="background:#FF0000">CURRENTLY BUILDING TWO REVOLUTIONARY PROJECT FOR ANDROID WITH (@StephAK-RSI)</h1>
+  <h1 style="background-color:#FF0000">CURRENTLY BUILDING TWO REVOLUTIONARY PROJECT FOR ANDROID WITH (@StephAK-RSI)</h1>
 </div>
 
 <br><br>
