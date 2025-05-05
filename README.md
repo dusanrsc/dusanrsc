@@ -92,7 +92,7 @@
   <br>
 
   <img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-native.webp" width="100" height="100">
-  <img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" width="100" height="100">
+  <img src="https://cdn.shopaccino.com/igmguru/products/flutter-igmguru_1527424732_l.jpg?v=531" width="100" height="100">
  </div>
 
 <br><br>
