@@ -43,7 +43,7 @@
   <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" width="150" height="150">
 </p>
 
-- **✅ In Pending:
+- **✅ In Pending:**
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="150" height="150"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="150" height="150"/>
