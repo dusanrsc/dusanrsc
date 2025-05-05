@@ -92,8 +92,6 @@
 
   <br><br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="10%" height="10%" />
   </a>
