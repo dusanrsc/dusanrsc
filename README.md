@@ -50,13 +50,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="150" height="150"/>
 </p>
 
-- **Other:**
+- **➕ More:**
 <p float="left">
-  <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" width="150" height="150">
+  <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="150" height="150">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
-  <img src="https://images.seeklogo.com/logo-png/26/1/ubuntu-logo-png_seeklogo-262530.png" width="150" height="150">
-  <img src="" width="150" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="150" height="150">
+  <img src="https://images.seeklogo.com/logo-png/48/1/linux-logo-png_seeklogo-482333.png" width="150" height="150">
 
 - **💻 My Equipement:**
 <div style="container" align="center">
