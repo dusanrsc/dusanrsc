@@ -33,7 +33,7 @@
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" width="150" height="150"/>
   <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740866276892" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="150" height="150">
+  <img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Pygame_logo.svg" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="150" height="150">
