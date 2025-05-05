@@ -40,7 +40,6 @@
   <img src="https://github.com/user-attachments/assets/61f94c1b-1b0a-4dc3-a4a1-84e6db767ae8" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="150" height="150">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" height="150">
-  <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" width="150" height="150">
 </p>
 
 - **✅ In Pending:**
@@ -53,9 +52,10 @@
 
 - **Other:**
 <p float="left">
+  <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" width="150" height="150">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
-  <img src="" width="150" height="150">
+  <img src="https://icon2.cleanpng.com/20180408/dsq/avbl7b4rs.webp" width="150" height="150">
   <img src="" width="150" height="150">
 
 - **💻 My Equipement:**
