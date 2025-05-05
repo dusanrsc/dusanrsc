@@ -65,9 +65,11 @@
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
 
   <br><br>
-  
-  <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112014/google_android_root_0.png?itok=qP-J5Mla" width="150" height="150">
-  <img src="https://www.virtualbabu.com/wp-content/uploads/2022/12/android-root-274x300.jpg" width="150" height="150">
+
+  <div>
+    <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112014/google_android_root_0.png?itok=qP-J5Mla" width="150" height="150">
+    <img src="https://www.virtualbabu.com/wp-content/uploads/2022/12/android-root-274x300.jpg" width="150" height="150">
+  </div>
 
 <br><br>
 
