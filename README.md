@@ -93,7 +93,7 @@
   <br><br>
 
   <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="300%" height="100%" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="150%" height="30%" />
   </a>
 
 
