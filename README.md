@@ -29,7 +29,7 @@
 - **🧰 My Stack:**
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150"/>
-  <img src="https://storage.caktusgroup.com/media/blog-images/django-logo.gif" width="150"/>
+  <img src="https://storage.caktusgroup.com/media/blog-images/django-logo.gif" width="150" height="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" width="150"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="150"/>
