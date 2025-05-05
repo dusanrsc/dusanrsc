@@ -42,7 +42,7 @@
   <img src="https://github.com/user-attachments/assets/61f94c1b-1b0a-4dc3-a4a1-84e6db767ae8" width="150" height="150">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" height="150">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/480px-HTML5_logo_and_wordmark.svg.png" width="150" height="150">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" width="150" height="150">
 <img src="" width="150" height="150">
 <img src="" width="150" height="150">
 
