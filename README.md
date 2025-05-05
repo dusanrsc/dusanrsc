@@ -37,7 +37,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="150" height="150">
   <img src="https://www.pygame.org/ftp/pygame-head-party.png" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Godot_engine_logo.svg" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/61f94c1b-1b0a-4dc3-a4a1-84e6db767ae8" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="150" height="150">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" height="150">
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="150" height="150">
