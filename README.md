@@ -55,7 +55,7 @@
   <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" width="150" height="150">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
-  <img src="https://icon2.cleanpng.com/20180408/dsq/avbl7b4rs.webp" width="150" height="150">
+  <img src="https://images.seeklogo.com/logo-png/26/1/ubuntu-logo-png_seeklogo-262530.png" width="150" height="150">
   <img src="" width="150" height="150">
 
 - **💻 My Equipement:**
