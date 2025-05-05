@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150"/>
   <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" width="150" height="150"/>
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" background="#FFFFFF" width="150" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" bg="#FFFFFF" width="150" height="150"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="150"/>
