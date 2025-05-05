@@ -56,7 +56,7 @@
 
 <br><br>
 
-- **➕ More:**
+  - **➕ Other:**
 <p float="left">
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo-512x512.png" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="150" height="150">
