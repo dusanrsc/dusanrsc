@@ -30,7 +30,7 @@
 
 - **🧰 My Stack:**
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10%" height="10%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15%" height="15%">
   <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" width="150" height="150"/>
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" width="150" height="150"/>
