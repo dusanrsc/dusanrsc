@@ -51,6 +51,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="150" height="150"/>
 </p>
 
+- ++ Other:**
+<p float="left">
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-500x281.png" width="150" height="150">
+  <img src="" width="150" height="150">
+
 - **💻 My Equipement:**
 <div style="container" align="center">
 
