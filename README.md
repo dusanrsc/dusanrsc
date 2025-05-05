@@ -53,7 +53,9 @@
 
 - ++ Other:**
 <p float="left">
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-500x281.png" width="150" height="150">
+  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
+  <img src="" width="150" height="150">
+  <img src="" width="150" height="150">
   <img src="" width="150" height="150">
 
 - **💻 My Equipement:**
