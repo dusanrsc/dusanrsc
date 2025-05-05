@@ -51,10 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="150" height="150"/>
 </p>
 
-- ++ Other:**
+- **Other:**
 <p float="left">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
-  <img src="" width="150" height="150">
+  <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
   <img src="" width="150" height="150">
   <img src="" width="150" height="150">
 
