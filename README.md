@@ -32,7 +32,7 @@
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100">
   <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="150" height="150">
+  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" width="100" height="100"/>
   <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740866276892" width="100" height="100">
   <img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="100" height="100">
