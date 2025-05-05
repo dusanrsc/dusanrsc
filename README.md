@@ -63,6 +63,11 @@
   <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" width="150" height="150">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
+  <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo.png" width="150" height="150">
+
+  <!--
+    <img src="" width="150" height="150">
+  -->
 
   <br>
 
