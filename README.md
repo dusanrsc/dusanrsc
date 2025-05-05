@@ -64,7 +64,7 @@
 <p float="left">
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo-512x512.png" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="150" height="150">
-  <img src="https://www.clipartmax.com/png/middle/14-147977_windows-7-logo-transparent.png" width="150" height=150">
+  <img src="https://p7.hiclipart.com/preview/520/166/333/windows-7-windows-vista-logo-microsoft-windows-logos.jpg" width="150" height=150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="150" height="150">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
