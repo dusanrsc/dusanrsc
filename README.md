@@ -94,4 +94,9 @@
 
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=korisnickoime.ime-repozitorijuma)
 
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" style="zoom: 150%;" />
+  </a>
+
+
 </div>
