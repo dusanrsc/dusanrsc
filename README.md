@@ -83,7 +83,7 @@
 
   <br>
 
-  - ** Interested In Future:**
+  -⏳ ** Interested In Future:**
  <div>
     <img src="" width="100" height="100">
     <img src="" width="100" height="100">
@@ -91,8 +91,6 @@
  </div>
 
 <br><br>
-
-
 
 - **💻 My Equipement:**
 <div style="container" align="center">
