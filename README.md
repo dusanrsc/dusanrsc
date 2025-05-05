@@ -63,6 +63,7 @@
   <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" width="150" height="150">
   <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="150" height="150">
   <img src="https://img.icons8.com/color/512/git.png" width="150" height="150">
+  <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112014/google_android_root_0.png?itok=qP-J5Mla" width="150" height="150">
 
 <br><br>
 
