@@ -92,6 +92,8 @@
 
   <br><br>
 
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=korisnickoime&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
+
   <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="10%" height="10%" />
   </a>
