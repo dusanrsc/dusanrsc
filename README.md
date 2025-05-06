@@ -70,7 +70,7 @@
 
   <div>
     <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112014/google_android_root_0.png?itok=qP-J5Mla" width="100" height="100">
-    <img src="https://filesmint.com/wp-content/uploads/2019/08/Odin_Logo.png" width="100" height="100">
+    <img src="https://odin-samsung.com/wp-content/uploads/2020/01/odin3-icon-white-150x150.png.webp" width="100" height="100">
     <img src="" width="100" height="100">
   </div>
 
