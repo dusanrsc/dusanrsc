@@ -99,7 +99,7 @@
   <br>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100">
-  <img src="https://bitperfect.at/assets/blog-images/laravel-setup-header-v1.webp" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/3ccd6a6f-ee29-4ceb-bcbb-9e1cdf481668" width="100" height="100">
   
 </div>
 
