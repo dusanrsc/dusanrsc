@@ -99,7 +99,7 @@
   <br>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100">
-  <img src="https://images.seeklogo.com/logo-png/44/1/laravel-logo-png_seeklogo-445532.png" width="100" height="100">
+  <img src="https://web-id.fr/curator/logos/laravel-mark-red-type-black_w1280.png?fm=webp&h=auto&w=900&s=9b98a882dcba0067ba0c6d246114533a" width="100" height="100">
   
 </div>
 
