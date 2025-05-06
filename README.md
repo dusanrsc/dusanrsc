@@ -89,6 +89,8 @@
    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="100" height="100">
    <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter-326x326.png" width="100" height="100">
    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="100" height="100">
+
+   <br>
    
    <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="100" height="100">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="100" height="100">
