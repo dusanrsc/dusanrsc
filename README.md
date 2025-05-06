@@ -69,7 +69,7 @@
   <br>
 
   <div>
-    <img src="https://www.citypng.com/public/uploads/preview/red-android-robot-logo-icon-png-701751694778066e2pwjvmjyp.png" width="100" height="100">
+    <img src="https://www.razzil.com/images/android-root.png" width="100" height="100">
     <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112014/google_android_root_0.png?itok=qP-J5Mla" width="100" height="100">
     <img src="https://odin-samsung.com/wp-content/uploads/2020/01/odin3-icon-white-150x150.png.webp" width="100" height="100">
   </div>
