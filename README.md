@@ -98,7 +98,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="100" height="100">
   <img src="https://doc.ubuntu-fr.org/lib/exe/fetch.php?tok=9121b3&media=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1381%2FPNG%2F512%2Fqt_94938.png" width="100" height="100">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2285024.png?f=webp&w=256" width="100" height="100">
-  <img src="" width="100" height="100">
+  <!-- <img src="" width="100" height="100"> -->
   
   <br>
 
