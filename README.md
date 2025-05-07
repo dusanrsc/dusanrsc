@@ -28,7 +28,7 @@
 
 <br><br>
 
-- **🧰 Primary:**
+- **🧰 __Main__:**
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100">
   <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" width="100" height="100"/>
