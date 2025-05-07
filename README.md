@@ -103,7 +103,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100">
   <img src="https://web-id.fr/curator/logos/laravel-mark-red-type-black_w1280.png?fm=webp&h=auto&w=900&s=9b98a882dcba0067ba0c6d246114533a" width="100" height="100">
-  <img src="file:///D:/Download/logo_dark.svg" width="100" height="100">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175109.png?f=webp&w=256" width="100" height="100">
   
 </div>
 
