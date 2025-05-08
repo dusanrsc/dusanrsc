@@ -26,7 +26,7 @@
   
 </div>
 
-- **🎓 My Certs/Diplomas:**
+- **🎓 My Certificates/Diplomas:**
 
   <br>
   
