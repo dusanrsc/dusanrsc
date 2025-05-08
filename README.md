@@ -3,7 +3,7 @@
 - ***⭐ Check out my gists: https://gist.github.com/dusanrsc***
 
 - ***✨ CEO & Co-Founder of:***
-<div style="container" align="center">
+<div style="container" align="justify-content: center">
   <img src="https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74" alt="Infinity Software Logo" width="75%">
   <img src="https://github.com/user-attachments/assets/75c3cf5d-95c3-4154-b0ed-b75471084f8f" alt="Infinity Software Logo" width="30%">
 </div>
