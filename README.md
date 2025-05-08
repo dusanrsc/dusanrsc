@@ -61,6 +61,7 @@
   <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?resize=150%2C150&ssl=1" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="100" height="100">
+  <img src="https://www.sublimehq.com/images/sublime_text.png" width="100" height="100">
 
   <!--
     <img src="" width="100" height="100">
