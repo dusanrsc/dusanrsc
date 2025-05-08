@@ -27,8 +27,8 @@
 </div>
 
 - **📄 My Certificates:**
-  <div>
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fd487bf5-31a8-42cd-834e-1a3969b0f539.jpg?v=1728292954000" />
+  <div style="container" align="center">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fd487bf5-31a8-42cd-834e-1a3969b0f539.jpg?v=1728292954000" width="300" height="300" />
   </div>
 
 <br><br>
