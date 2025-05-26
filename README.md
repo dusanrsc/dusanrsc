@@ -11,7 +11,7 @@
 <br><br>
 
 - **🌊 Diving Deep Into:**
-<div style="container" align="center">
+<div style="container">
 
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="70%" />
