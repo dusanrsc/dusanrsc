@@ -5,8 +5,8 @@
 - ***✨ CEO & Co-Founder of:***
 <div style="container" align="center">
     <a href="https://github.com/infinitysoftwareds">
-        <img src="https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74" width="75%" />
-  </a>
+    <img src="https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74" width="75%" />
+    </a>
 
 <br><br>
 
