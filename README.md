@@ -44,8 +44,9 @@
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
   <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" width="100" height="100"/>
+  <img src="https://flet.dev/img/logo.svg" width="100" height="100"/>
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100" height="100"/>
-    <img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="100" height="100"/>
+  <img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" width="100" height="100"/>
   <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740866276892" width="100" height="100"/>
   <img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="100" height="100"/>
@@ -54,7 +55,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="100" height="100"/>
   <img src="https://github.com/user-attachments/assets/61f94c1b-1b0a-4dc3-a4a1-84e6db767ae8" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
-  <img src="https://flet.dev/img/logo.svg" width="100" height="100"/>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" width="100" height="100"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdOPGrhHK13DvB6p7XR8Qlw_LOfMbRuK5Bg&s" width="100" height="100"/>
