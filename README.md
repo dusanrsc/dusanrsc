@@ -54,6 +54,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="100" height="100"/>
   <img src="https://github.com/user-attachments/assets/61f94c1b-1b0a-4dc3-a4a1-84e6db767ae8" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
+  <img src="https://flet.dev/img/logo.svg" width="100" height="100"/>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" width="100" height="100"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdOPGrhHK13DvB6p7XR8Qlw_LOfMbRuK5Bg&s" width="100" height="100"/>
