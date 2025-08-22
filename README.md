@@ -14,11 +14,14 @@
 - **🌊 Diving Deep Into:**
 <div style="container" align="center">
 
+<!--
   <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="70%" />
   </a>
   
   <br><br>
+
+-->
 
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="75%" />
