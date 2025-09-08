@@ -143,11 +143,13 @@
   </a>
 
   <br><br>
+  
+  ![snake gif](https://github.com/dusanrsc/dusanrsc/blob/output/github-snake-dark.svg)
 
+  <br><br>
+  
   <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="10%" height="10%" />
   </a>
 
 </div>
-
-![snake gif](https://github.com/RafalW3bCraft/RafalW3bCraft/blob/output/github-snake-dark.svg)
