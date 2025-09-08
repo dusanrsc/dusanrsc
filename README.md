@@ -150,4 +150,4 @@
 
 </div>
 
-![snake gif](https://github.com/dusanrsc/dusanrsc/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RafalW3bCraft/RafalW3bCraft/blob/output/github-snake-dark.svg)
