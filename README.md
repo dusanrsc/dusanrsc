@@ -52,7 +52,7 @@
   <img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" width="100" height="100"/>
   <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740866276892" width="100" height="100"/>
-  <img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="100" height="100"/>
+  <!--<img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="100" height="100"/>-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="100" height="100"/>
   <img src="https://www.pygame.org/ftp/pygame-head-party.png" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="100" height="100"/>
