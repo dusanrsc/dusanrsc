@@ -78,6 +78,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="100" height="100"/>
   <img src="https://www.sublimehq.com/images/sublime_text.png" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="100" height="100"/>
+  <img src="https://www.svgrepo.com/show/255827/xml.svg" width="100" height="100"/>
 
   <!--
     <img src="" width="100" height="100">
@@ -94,19 +99,14 @@
 
   - **✅ In Pending...**
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/255827/xml.svg" width="100" height="100"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="100" height="100"/>
+    <img src="https://www.svgrepo.com/show/349363/flutter.svg" width="100" height="100"/>  
 </p>
 
 <br>
 
 - **⏳ Interested In Future:**
 <div>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/349363/flutter.svg" width="100" height="100"/>
   <img src="https://developer.apple.com/swift/images/swift-logo.svg" width="100" height="100"/>
 
   <br>
