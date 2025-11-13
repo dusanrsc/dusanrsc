@@ -59,6 +59,12 @@
   <img src="https://github.com/user-attachments/assets/61f94c1b-1b0a-4dc3-a4a1-84e6db767ae8" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="100" height="100"/>
+  <img src="https://www.svgrepo.com/show/255827/xml.svg" width="100" height="100"/>
+
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" width="100" height="100"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdOPGrhHK13DvB6p7XR8Qlw_LOfMbRuK5Bg&s" width="100" height="100"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhGETiCc_Hct6__P9a6iU9vs1DqRCDEiHNQ&s" width="100" height="100"/>
@@ -78,11 +84,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="100" height="100"/>
   <img src="https://www.sublimehq.com/images/sublime_text.png" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="100" height="100"/>
-  <img src="https://www.svgrepo.com/show/255827/xml.svg" width="100" height="100"/>
+  
 
   <!--
     <img src="" width="100" height="100">
