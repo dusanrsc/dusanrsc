@@ -97,7 +97,7 @@
     <img src="https://odin-samsung.com/wp-content/uploads/2020/01/odin3-icon-white-150x150.png.webp" width="100" height="100"/>
   </div>
 
-  <br>
+  <br><br>
 
   - **✅ In Pending...**
 <p float="left">
@@ -120,7 +120,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2285024.png?f=webp&w=256" width="100" height="100"/>
   <!-- <img src="" width="100" height="100"> -->
 
-  <br>
+  <br><br>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" height="100"/>
