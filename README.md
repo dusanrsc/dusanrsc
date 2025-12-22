@@ -14,6 +14,8 @@
      
 <br><br>
 
+![Likes](https://img.shields.io/badge/Likes-0-green?style=for-the-badge)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/dusanrsc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:dusanrosic25.06.1997@gmail.com)
