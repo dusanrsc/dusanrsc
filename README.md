@@ -12,10 +12,9 @@
   </a>
 
   <br><br>
-
-  ![Pixel Art Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p3cmN5NDg3Nmg3d3NocjZsbzk2dWV0c2VrdHVzaGRqbnExZGlvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CN1y0JYIPg8tBWRyg/giphy.gif)
-  
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAyeWxmNTdmc2Y2ZGl4d2Y5c2lyazR3MmRjd3p1cmg0bXEwdmtzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" 
+     alt="Pixel Art Animation" 
+     style="width:100%; height:auto;" />
   <br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/dusanrsc)
