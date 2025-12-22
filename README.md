@@ -6,11 +6,11 @@
 - ***📫 How to reach me: dusanrosic25.06.1997@gmail.com***
 - ***⭐ Check out my gists: https://gist.github.com/dusanrsc***
 - **🌊 Diving Deep Into:**
-<div style="container" align="center">
+<div align="center">
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="75%" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" 
+         style="width:75%; filter: drop-shadow(0 0 15px #3DDC84);" />
      
 <br><br>
 
@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:dusanrosic25.06.1997@gmail.com)
 
-<br><br>
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Material 3](https://img.shields.io/badge/material%203-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white) ![Room Database](https://img.shields.io/badge/room%20database-607D8B?style=for-the-badge&logo=databricks&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tkinter](https://img.shields.io/badge/tkinter-Tk-3670A0?style=for-the-badge&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%2374267B?style=for-the-badge&logo=godot-engine&logoColor=white) ![Flet](https://img.shields.io/badge/Flet-Python%20UI-3DDC84?style=for-the-badge&logoColor=white) ![Pygame](https://img.shields.io/badge/pygame-Py-3670A0?style=for-the-badge&logoColor=white) ![Django](https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
