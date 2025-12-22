@@ -13,7 +13,8 @@
 
   <br><br>
 
-  ![Pixel Art Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBtb3lzb3JnNDN2YWJja29qcTdidTRpc3JsaHVrb2YweDFkY2JlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0megwbBeETMgZa/giphy.gif)
+  ![Pixel Art Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p3cmN5NDg3Nmg3d3NocjZsbzk2dWV0c2VrdHVzaGRqbnExZGlvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CN1y0JYIPg8tBWRyg/giphy.gif)
+  
 
   <br><br>
 
