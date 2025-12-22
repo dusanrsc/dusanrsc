@@ -53,6 +53,7 @@
     <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" height="30" />
     </a>
+       &nbsp;
     <a href="#">
       <img src="https://img.shields.io/badge/Likes-0-green?style=for-the-badge" height="30" />
     </a>
