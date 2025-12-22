@@ -48,12 +48,13 @@
   ![snake gif](https://github.com/dusanrsc/dusanrsc/blob/output/github-snake-dark.svg)
 
   <br><br>
-  
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="10%" height="10%" />
-  </a>
 
-  ![Likes](https://img.shields.io/badge/Likes-0-green?style=for-the-badge)
+  <div class="container">
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="10%" height="10%" />
+    </a>
+     ![Likes](https://img.shields.io/badge/Likes-0-green?style=for-the-badge)
+  </div>
 
 </div>
 
