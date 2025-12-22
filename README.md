@@ -13,6 +13,10 @@
 
   <br><br>
 
+  ![Pixel Art Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBtb3lzb3JnNDN2YWJja29qcTdidTRpc3JsaHVrb2YweDFkY2JlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0megwbBeETMgZa/giphy.gif)
+
+  <br><br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/dusanrsc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:dusanrosic25.06.1997@gmail.com)
