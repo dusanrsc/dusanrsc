@@ -2,46 +2,37 @@
 
 - ***⭐ Check out my gists: https://gist.github.com/dusanrsc***
 
-<!--
-- ***✨ CEO & Co-Founder of:***
-<div style="container" align="center">
-    <a href="https://github.com/infinitysoftwareds">
-        <img src="https://github.com/user-attachments/assets/b9ebf244-15ad-4ec1-8ad3-cf3e41595d74" width="75%" />
-    </a>
-</div>
--->
-
 - **🌊 Diving Deep Into:**
-<div style="container" align="center">
-
-<!--
-  <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="70%" />
-  </a>
-
--->
-  
+<div style="container" align="center">#
+    
   <br><br>
 
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" width="75%" />
   </a>
+
   
-  <br><br>
-  
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dusanrsc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dusanrosic25.06.1997@gmail.com) 
+
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=@dusanrsc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=@dusanrsc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=@dusanrsc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=@dusanrsc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=@dusanrsc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
-- **🎓 My Certificates/Diplomas:**
-
-  <br>
-  
-  <div style="container" align="center">
-    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-fd487bf5-31a8-42cd-834e-1a3969b0f539.jpg?v=1728292954000" width="75%" height="75%" />
-  </div>
-
-<br><br>
--->
+  <br><br>
+</div>
 
 - **🧰 Primary/Main:**
 <p float="left">
@@ -52,7 +43,6 @@
   <img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/500px-OpenCV_Logo_with_text.png" width="100" height="100"/>
   <img src="https://cdn.brandfetch.io/idbyoKq4tZ/w/396/h/396/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740866276892" width="100" height="100"/>
-  <!--<img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="100" height="100"/>-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="100" height="100"/>
   <img src="https://www.pygame.org/ftp/pygame-head-party.png" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="100" height="100"/>
@@ -84,11 +74,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="100" height="100"/>
   <img src="https://www.sublimehq.com/images/sublime_text.png" width="100" height="100"/>
-  
-
-  <!--
-    <img src="" width="100" height="100">
-  -->
 
   <br>
 
@@ -118,20 +103,11 @@
   <img src="https://ih1.redbubble.net/image.5432135973.6302/st,small,507x507-pad,600x600,f8f8f8.jpg" width="100" height="100">
   <img src="https://doc.ubuntu-fr.org/lib/exe/fetch.php?tok=9121b3&media=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1381%2FPNG%2F512%2Fqt_94938.png" width="100" height="100"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2285024.png?f=webp&w=256" width="100" height="100"/>
-  <!-- <img src="" width="100" height="100"> -->
 
   <br>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" height="100"/>
-
-  <!--
-  <br>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100"/>
-  <img src="https://web-id.fr/curator/logos/laravel-mark-red-type-black_w1280.png?fm=webp&h=auto&w=900&s=9b98a882dcba0067ba0c6d246114533a" width="100" height="100"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175109.png?f=webp&w=256" width="100" height="100"/>
-  -->
   
 </div>
 
