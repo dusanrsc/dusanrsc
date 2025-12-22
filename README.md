@@ -37,7 +37,9 @@
 
 <br><br>
 
-<div align="center">
+Zasto ovo likes se ne vidi dobro, hocu dabude pored visitors sa desne strane i da bedz od visitors i likes budu u istom maniru i istih dimenzija
+
+<div style="container" align="center">
 
   <a href="https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2023/helpdesk_service?model2Name=FA707NVR">
     <img src="https://github.com/user-attachments/assets/57ff9921-a434-4f02-bfe7-3d56154a7851" width="75%" />
@@ -49,13 +51,9 @@
 
   <br><br>
 
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+  <div class="container">
     <a href="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" height="30" />
-    </a>
-       &nbsp;
-    <a href="#">
-      <img src="https://img.shields.io/badge/Likes-0-green?style=for-the-badge" height="30" />
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=marko123.moj-projekat" width="10%" height="10%" />
     </a>
   </div>
 
