@@ -10,7 +10,7 @@
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" 
-         style="width:75%; filter: drop-shadow(0 0 15px #3DDC84);" />
+         style="width:90%; filter: drop-shadow(0 0 15px #3DDC84);" />
      
 <br><br>
 
