@@ -3,7 +3,6 @@
      style="width:100%; height:auto;" />
   <br><br>
 
-- ***⭐ Check out my gists: https://gist.github.com/dusanrsc***
 <div align="center">
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
