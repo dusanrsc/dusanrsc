@@ -2,6 +2,7 @@
      alt="Pixel Art Animation" 
      style="width:100%; height:auto;" />
   <br><br> -->
+  <br>
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
