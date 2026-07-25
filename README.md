@@ -29,7 +29,7 @@
 
 <br>
 
-<h2>LAPTOP LOVER ❤️❤️❤️</h2>
+LAPTOP LOVER ❤️❤️❤️
 
 <div style="container" align="center">
      
