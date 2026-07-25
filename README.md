@@ -43,10 +43,6 @@
     <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="500" height="400" />
   </a>
 
-  <a href="https://support.apple.com/en-us/111893">
-    <img src="https://github.com/user-attachments/assets/3d5afa97-a144-47c0-940c-8596e66de1c1" width="500" height="400" />
-  </a>
-
   <br><br>
 
   <a href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/1-series/1-14ada05/82gw/82gw001gus">
