@@ -3,7 +3,6 @@
      style="width:100%; height:auto;" />
      -->
   <br><br>
-  <br>
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
@@ -33,11 +32,11 @@
 <div style="container" align="center">
 
   <a href="https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2023/helpdesk_service?model2Name=FA707NVR">
-    <img src="https://github.com/user-attachments/assets/57ff9921-a434-4f02-bfe7-3d56154a7851" width="75%" />
+    <img src="https://github.com/user-attachments/assets/57ff9921-a434-4f02-bfe7-3d56154a7851" width="50%" />
   </a>
 
   <a href="https://support.apple.com/en-us/111893#:~:text=Configuration%20tested%3A%20Apple%20M1%20chip%2C%208GB%20memory%2C%20512GB,M1%20chip%2C%208GB%20of%20RAM%2C%20and%20512GB%20SSD.">
-    <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="75%" />
+    <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="50%" />
   </a>
 
   <br><br>
