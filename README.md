@@ -27,8 +27,6 @@
 
 <br><br> -->
 
-<br>
-
 <h1>❤️❤️❤️</h1>
 
 <div style="container" align="center">
