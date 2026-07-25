@@ -1,8 +1,8 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAyeWxmNTdmc2Y2ZGl4d2Y5c2lyazR3MmRjd3p1cmg0bXEwdmtzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" 
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAyeWxmNTdmc2Y2ZGl4d2Y5c2lyazR3MmRjd3p1cmg0bXEwdmtzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" 
      alt="Pixel Art Animation" 
      style="width:100%; height:auto;" />
   <br><br>
-  <br>
+  <br> -->
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
@@ -29,7 +29,7 @@
 
 <br>
 
-<div>
+<div style="container" align="center">
 
   <a href="https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2023/helpdesk_service?model2Name=FA707NVR">
     <img src="https://github.com/user-attachments/assets/57ff9921-a434-4f02-bfe7-3d56154a7851" width="75%" />
