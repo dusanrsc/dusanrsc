@@ -47,9 +47,9 @@
 
   <br><br>
 
-  <a href="https://support.apple.com/en-us/111893">
-    <img width="500" height="400" alt="LenovoIdePad" src="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/1-series/1-14ada05/82gw/82gw001gus" />
-  </a>  
+  <a href="https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/1-series/1-14ada05/82gw/82gw001gus">
+    <img src="https://github.com/user-attachments/assets/28e0f12e-ab38-413d-a3c9-53114917838d" width="500" height="400" />
+  </a> 
 
   <br><br>
   
