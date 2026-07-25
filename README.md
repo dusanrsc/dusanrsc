@@ -40,7 +40,7 @@
   <br><br>
 
   <a href="https://support.apple.com/en-us/111893">
-    <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="500" height="400" />
+    <img src="https://github.com/user-attachments/assets/f2ed5e5b-86b8-46e8-8f02-a3e043b4ac32" width="500" height="400" />
   </a>
 
   <br><br>
