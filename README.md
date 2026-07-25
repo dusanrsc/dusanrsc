@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://support.apple.com/en-us/111893">
-    <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="45%" height="45%" />
+    <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="45%" height="65%" />
   </a>
 
   <br><br>
