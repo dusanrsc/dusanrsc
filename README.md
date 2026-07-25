@@ -41,7 +41,11 @@
 
   <a href="https://support.apple.com/en-us/111893">
     <img src="https://github.com/user-attachments/assets/c0d659b3-a169-4a8f-ab24-0f56619fff5b" width="500" height="400" />
-  </a>  
+  </a>
+
+  <a href="https://support.apple.com/en-us/111893">
+    <img src="https://github.com/user-attachments/assets/ca29151b-7504-47b1-90c4-d71d6bf1b8bf" width="500" height="400" />
+  </a>
 
   <br><br>
 
