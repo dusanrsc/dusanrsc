@@ -40,7 +40,7 @@
   <br><br>
 
   <a href="https://support.apple.com/en-us/111893">
-     <img width="664" height="510" alt="MPM1" src="https://github.com/user-attachments/assets/a5f222d3-3073-42f2-b192-30faff4cfb12" />
+     <img width="500" height="400" alt="MPM1" src="https://github.com/user-attachments/assets/a5f222d3-3073-42f2-b192-30faff4cfb12" />
   </a>
 
   <br><br>
