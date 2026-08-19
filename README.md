@@ -11,7 +11,7 @@
 
  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
     <img src="https://static.tildacdn.pro/tild3662-3230-4530-b133-316535646331/Flutter_logo.png" 
-         style="width:90%; filter: drop-shadow(0 0 15px #3DDC84);" />
+     filter: drop-shadow(0 0 15px #3DDC84); style="width:30%;" />
      
 <br><br>
 
