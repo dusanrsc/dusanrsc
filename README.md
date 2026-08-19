@@ -9,11 +9,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg" 
          style="width:90%; filter: drop-shadow(0 0 15px #3DDC84);" />
 
+<br>
+
  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
     <img src="https://static.tildacdn.pro/tild3662-3230-4530-b133-316535646331/Flutter_logo.png" 
      filter: drop-shadow(0 0 15px #3DDC84); style="width:30%;" />
      
-<br><br>
+<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/dusanrsc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/)
