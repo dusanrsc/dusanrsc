@@ -10,7 +10,7 @@
          style="width:90%; filter: drop-shadow(0 0 15px #3DDC84);" />
 
  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.HHmYO35Z_Lx7tS_tRzluhQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" 
+    <img src="https://static.tildacdn.pro/tild3662-3230-4530-b133-316535646331/Flutter_logo.png" 
          style="width:90%; filter: drop-shadow(0 0 15px #3DDC84);" />
      
 <br><br>
