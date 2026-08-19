@@ -12,7 +12,7 @@
 <br><br>
 
  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
-    <img width="100%" height="50%" alt="FlutterLogo" src="https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1-800x311.jpg" />
+    <img width="100%" height="30%" alt="FlutterLogo" src="https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1-800x311.jpg" />
      
 <br><br>
 
