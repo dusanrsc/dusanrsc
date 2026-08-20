@@ -5,13 +5,13 @@
 
 <div align="center"> 
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"> 
-    <img width="40%" src="https://github.com/user-attachments/assets/7ecca306-0ad9-4b47-80c4-8f7c190bb8e0" /> 
+    <img width="30%" src="https://github.com/user-attachments/assets/7ecca306-0ad9-4b47-80c4-8f7c190bb8e0" /> 
   </a>
 
   &nbsp; &nbsp;
 
   <a href="https://en.wikipedia.org/wiki/Flutter_(software)"> 
-    <img width="40%" src="https://github.com/user-attachments/assets/d447531d-eab0-4d89-be83-d3fe8f67666a" />
+    <img width="30%" src="https://github.com/user-attachments/assets/d447531d-eab0-4d89-be83-d3fe8f67666a" />
   </a>
 </div>
 
