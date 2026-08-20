@@ -6,10 +6,7 @@
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-    <img src="https://github.com/user-attachments/assets/63488cb4-5fee-42d8-9f34-7c63b58aa6d7" 
-         style="width:40%; filter: drop-shadow(0 0 15px #3DDC84);" />
-
-<br><br>
+    <img width="40%" src="https://github.com/user-attachments/assets/63488cb4-5fee-42d8-9f34-7c63b58aa6d7" />
 
  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
     <img width="40%" alt="FlutterLogo" src="https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1-800x311.jpg" />
