@@ -3,15 +3,16 @@
      style="width:100%; height:auto;" />
      -->
 
-<div align="center">
-  <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-    <img width="40%" src="https://github.com/user-attachments/assets/7ecca306-0ad9-4b47-80c4-8f7c190bb8e0" />
-  </a>
+<div align="center"> 
+  <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"> 
+    <img width="40%" src="https://github.com/user-attachments/assets/7ecca306-0ad9-4b47-80c4-8f7c190bb8e0" /> 
 
-  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
-    <img width="40%" src="https://github.com/user-attachments/assets/d447531d-eab0-4d89-be83-d3fe8f67666a" />
-  </a>
-</div>
+<br> 
+
+  <a href="https://en.wikipedia.org/wiki/Flutter_(software)"> 
+    <img width="40%" src="https://github.com/user-attachments/assets/d447531d-eab0-4d89-be83-d3fe8f67666a" /> 
+
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/dusanrsc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/)
