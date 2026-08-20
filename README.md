@@ -12,7 +12,7 @@
  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
     <img width="40%" alt="FlutterLogo" src="https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1-800x311.jpg" />
      
-<br>
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=20)](https://www.instagram.com/dusanrsc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/du%C5%A1an-rosi%C4%87-896417287/)
