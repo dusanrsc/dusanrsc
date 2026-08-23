@@ -3,7 +3,7 @@
      style="width:100%; height:auto;" />
      -->
 
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"> 
     <img width="40%" src="https://github.com/user-attachments/assets/7ecca306-0ad9-4b47-80c4-8f7c190bb8e0" /> 
   </a>
@@ -11,7 +11,11 @@
   <a href="https://en.wikipedia.org/wiki/Flutter_(software)"> 
     <img width="40%" src="https://github.com/user-attachments/assets/d447531d-eab0-4d89-be83-d3fe8f67666a" />
   </a>
-</div>
+</div> -->
+
+<a href="https://en.wikipedia.org/wiki/Android_(operating_system)"> 
+    <img width="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/960px-Android_2023_3D_logo_and_wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" /> 
+  </a>
 
 <br/>
 
