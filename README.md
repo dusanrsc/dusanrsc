@@ -1,6 +1,6 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAyeWxmNTdmc2Y2ZGl4d2Y5c2lyazR3MmRjd3p1cmg0bXEwdmtzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" 
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAyeWxmNTdmc2Y2ZGl4d2Y5c2lyazR3MmRjd3p1cmg0bXEwdmtzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" 
      alt="Pixel Art Animation" 
-     style="width:100%; height:auto;" />
+     style="width:100%; height:auto;" /> -->
 
 <!-- <div align="center"> 
   <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"> 
