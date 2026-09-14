@@ -12,9 +12,9 @@
   </a>
 </div> -->
 
-<!-- <div align="center"> 
+<div align="center"> 
      <img width="100%" alt="DNSLogomMountains2" src="https://github.com/user-attachments/assets/113cf89e-27c3-4b8d-93ac-a3ecf0cc806d" />
-</div> -->
+</div>
 
 <!-- <br/> -->
 <br/>
